@@ -5,3 +5,6 @@ As part of a greater stormwater mitigation project taken on by the university, y
 2) I had create an Elevation Map of Tallahassee using a Digital Elevation Model (DEM) and Tallahassee City Limits.
 3) Used vector data from Tallahassee city website - https://tlcgis.org/ and Digital Elevation Model from USGS (https://apps.nationalmap.gov/downloader/) to create the Flood Zone and elevation map.
 4) To create elevation map, I symbolized the DEM data using hypsometric tinting - which is the standard way to symbolize elevation.
+
+![fema](https://user-images.githubusercontent.com/62851341/227504312-1906e079-2489-4c6a-8d13-1ff82cfddffb.png)
+![elevation](https://user-images.githubusercontent.com/62851341/227504329-842c55e2-c9d6-42e6-8c04-17fe72a24425.png)
